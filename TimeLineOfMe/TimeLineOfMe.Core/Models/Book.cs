@@ -70,5 +70,6 @@ public class Book
     }
 
 
+    public static Book Create(Guid id, string title, string author, string? description, DateTime publishedDate) => new Book(id, title, author, description, publishedDate);
 
 }
