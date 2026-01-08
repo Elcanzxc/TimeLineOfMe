@@ -1,4 +1,6 @@
+using Microsoft.EntityFrameworkCore;
 using Scalar.AspNetCore;
+using TimeLineOfMe.DataAccess;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,6 +9,14 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 
 builder.Services.AddOpenApi();
+
+builder.Services.AddDbContext<TimeLineOfMeDbContext>(
+    options =>
+    {
+        var connectionString = builder.Configuration.GetConnectionString("TimeLineOfMeDbContext");
+        options.UseSqlServer(connectionString);
+    });
+
 
 var app = builder.Build();
 

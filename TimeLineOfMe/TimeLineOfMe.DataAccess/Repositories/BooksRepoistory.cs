@@ -4,10 +4,10 @@ using TimeLineOfMe.Core.Models;
 
 namespace TimeLineOfMe.DataAccess.Repositories;
 
-public class BookRepoistory
+public class BooksRepoistory : IBooksRepoistory
 {
     private readonly TimeLineOfMeDbContext _context;
-    public BookRepoistory(TimeLineOfMeDbContext context)
+    public BooksRepoistory(TimeLineOfMeDbContext context)
     {
         _context = context;
     }
@@ -48,12 +48,12 @@ public class BookRepoistory
         };
         await _context.Books.AddAsync(bookEntity);
 
-        await  _context.SaveChangesAsync();
+        await _context.SaveChangesAsync();
 
         return bookEntity.Id;
     }
 
-    public async Task<Guid> Update(Guid id,string title, string author, string? description, DateTime publishedDate)
+    public async Task<Guid> Update(Guid id, string title, string author, string? description, DateTime publishedDate)
     {
 
         await _context.Books
@@ -65,7 +65,7 @@ public class BookRepoistory
                 .SetProperty(b => b.PublishedDate, publishedDate));
 
 
-     
+
         return id;
     }
 
