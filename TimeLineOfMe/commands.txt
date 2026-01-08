@@ -1,0 +1,30 @@
+
+
+
+   --TLOM.Server
+   
+   1) launchSettings.json - delete :
+     "ASPNETCORE_HOSTINGSTARTUPASSEMBLIES": "Microsoft.AspNetCore.SpaProxy"
+
+
+   2) TLOM.Csproj - delete :
+   
+  <ItemGroup>
+    <ProjectReference Include="..\timelineofme.client\timelineofme.client.esproj">
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+  </ItemGroup>
+
+      <SpaRoot>..\timelineofme.client</SpaRoot>
+    <SpaProxyLaunchCommand>npm run dev</SpaProxyLaunchCommand>
+    <SpaProxyServerUrl>https://localhost:61004</SpaProxyServerUrl>
+
+  3) Nuget pakage - delete :
+    Microsoft.AspNetCore.SpaProxy 6.0.20
+
+  4) program.cs - delete :
+   
+   app.UseDefaultFiles();
+   app.MapStaticAssets();
+   app.MapFallbackToFile("/index.html");
+

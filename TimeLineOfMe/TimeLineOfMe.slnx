@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="commands.txt" />
+  </Folder>
+  <Project Path="timelineofme.client/timelineofme.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="TimeLineOfMe.Server/TimeLineOfMe.Server.csproj" />
+</Solution>

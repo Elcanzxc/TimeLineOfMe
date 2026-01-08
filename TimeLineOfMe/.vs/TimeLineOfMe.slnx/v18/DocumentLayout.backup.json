@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E8498A-ECDB-49C9-A0B3-D3A5602F3C98}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{F5E8498A-ECDB-49C9-A0B3-D3A5602F3C98}|C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\commands.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F5E8498A-ECDB-49C9-A0B3-D3A5602F3C98}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{F5E8498A-ECDB-49C9-A0B3-D3A5602F3C98}|solutionrelative:commands.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2600FCE9-2839-4BB9-81D4-4F2BEBFE781E}|TimeLineOfMe.Server\\TimeLineOfMe.Server.csproj|c:\\programmin projects\\vs studio\\css\\experimental\\timelineofme\\timelineofme.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2600FCE9-2839-4BB9-81D4-4F2BEBFE781E}|TimeLineOfMe.Server\\TimeLineOfMe.Server.csproj|solutionrelative:timelineofme.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2600FCE9-2839-4BB9-81D4-4F2BEBFE781E}|TimeLineOfMe.Server\\TimeLineOfMe.Server.csproj|c:\\programmin projects\\vs studio\\css\\experimental\\timelineofme\\timelineofme.server\\timelineofme.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2600FCE9-2839-4BB9-81D4-4F2BEBFE781E}|TimeLineOfMe.Server\\TimeLineOfMe.Server.csproj|solutionrelative:timelineofme.server\\timelineofme.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2600FCE9-2839-4BB9-81D4-4F2BEBFE781E}|TimeLineOfMe.Server\\TimeLineOfMe.Server.csproj|c:\\programmin projects\\vs studio\\css\\experimental\\timelineofme\\timelineofme.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2600FCE9-2839-4BB9-81D4-4F2BEBFE781E}|TimeLineOfMe.Server\\TimeLineOfMe.Server.csproj|solutionrelative:timelineofme.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2600FCE9-2839-4BB9-81D4-4F2BEBFE781E}|TimeLineOfMe.Server\\TimeLineOfMe.Server.csproj|c:\\programmin projects\\vs studio\\css\\experimental\\timelineofme\\timelineofme.server\\timelineofme.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2600FCE9-2839-4BB9-81D4-4F2BEBFE781E}|TimeLineOfMe.Server\\TimeLineOfMe.Server.csproj|solutionrelative:timelineofme.server\\timelineofme.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TimeLineOfMe.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TimeLineOfMe.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-08T15:37:24.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe.Server\\Program.cs",
+              "RelativeDocumentMoniker": "TimeLineOfMe.Server\\Program.cs",
+              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe.Server\\Program.cs",
+              "RelativeToolTip": "TimeLineOfMe.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T15:31:41.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimeLineOfMe.Server",
+              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe.Server\\TimeLineOfMe.Server.csproj",
+              "RelativeDocumentMoniker": "TimeLineOfMe.Server\\TimeLineOfMe.Server.csproj",
+              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe.Server\\TimeLineOfMe.Server.csproj",
+              "RelativeToolTip": "TimeLineOfMe.Server\\TimeLineOfMe.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-08T15:31:07.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "commands.txt",
+              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\commands.txt",
+              "RelativeDocumentMoniker": "commands.txt",
+              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\commands.txt",
+              "RelativeToolTip": "commands.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-08T15:30:42.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimeLineOfMe.Server",
+              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe.Server\\TimeLineOfMe.Server.csproj",
+              "RelativeDocumentMoniker": "TimeLineOfMe.Server\\TimeLineOfMe.Server.csproj",
+              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe.Server\\TimeLineOfMe.Server.csproj",
+              "RelativeToolTip": "TimeLineOfMe.Server\\TimeLineOfMe.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-08T15:39:37.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
