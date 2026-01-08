@@ -7,7 +7,14 @@
   git pull origin main --rebase
   git add .
   git commit -m ""
-  git push origin main
+  git push --set-upstream origin main
+
+
+  2) gitignore add
+  dotnet new gitignore 
+  -into -> 
+  TimeLineOfMe.Server/obj/
+  TimeLineOfMe.Server/bin/
 
 
 
@@ -37,4 +44,15 @@
    app.UseDefaultFiles();
    app.MapStaticAssets();
    app.MapFallbackToFile("/index.html");
+
+
+
+   -- TLOM.DataAccess
+
+   1) add nuget pakage :
+      Microsoft.EntityFrameworkCore.Core
+      Microsoft.EntityFrameworkCore.Design
+      Microsoft.EntityFrameworkCore.SqlServer
+      Microsoft.EntityFrameworkCore.Tools
+
 

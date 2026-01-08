@@ -7,5 +7,6 @@
     <Deploy />
   </Project>
   <Project Path="TimeLineOfMe.Core/TimeLineOfMe.Core.csproj" Id="f23488c6-352f-426d-a290-46eace70761c" />
+  <Project Path="TimeLineOfMe.DataAccess/TimeLineOfMe.DataAccess.csproj" Id="4d911306-fbd2-49ce-8545-57377feda20c" />
   <Project Path="TimeLineOfMe.Server/TimeLineOfMe.Server.csproj" />
 </Solution>
