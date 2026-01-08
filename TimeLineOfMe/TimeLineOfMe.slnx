@@ -2,9 +2,10 @@
   <Folder Name="/Элементы решения/">
     <File Path="commands.txt" />
   </Folder>
-  <Project Path="timelineofme.client/timelineofme.client.esproj">
+  <Project Path="timelineofme.client/timelineofme.client.esproj" DisplayName="TimeLineOfMe.Client">
     <Build />
     <Deploy />
   </Project>
+  <Project Path="TimeLineOfMe.Core/TimeLineOfMe.Core.csproj" Id="f23488c6-352f-426d-a290-46eace70761c" />
   <Project Path="TimeLineOfMe.Server/TimeLineOfMe.Server.csproj" />
 </Solution>

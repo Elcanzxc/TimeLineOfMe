@@ -1,3 +1,13 @@
+   -- Git commands
+
+  1) Start 
+
+  git init 
+  git remote add origin 'link'
+  git pull origin main --rebase
+  git add .
+  git commit -m ""
+  git push origin main
 
 
 
