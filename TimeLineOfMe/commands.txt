@@ -18,6 +18,7 @@
 
 
 
+
    --TLOM.Server
    
    1) launchSettings.json - delete :
@@ -56,3 +57,7 @@
       Microsoft.EntityFrameworkCore.Tools
 
 
+
+   -- Migrations Add
+   1) dotnet-ef migrations add init -s .\TimeLineOfMe.Server\ -p .\TimeLineOfMe.DataAccess\
+   2) dotnet-ef database update -s .\TimeLineOfMe.Server\ -p .\TimeLineOfMe.DataAccess\

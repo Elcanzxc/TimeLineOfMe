@@ -1,11 +1,12 @@
 using Microsoft.EntityFrameworkCore;
 using Scalar.AspNetCore;
+using TimeLineOfMe.Application.Services;
 using TimeLineOfMe.DataAccess;
+using TimeLineOfMe.DataAccess.Repositories;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
-
-WebApplication dwada;
 builder.Services.AddControllers();
 
 builder.Services.AddOpenApi();
@@ -16,6 +17,11 @@ builder.Services.AddDbContext<TimeLineOfMeDbContext>(
         var connectionString = builder.Configuration.GetConnectionString("TimeLineOfMeDbContext");
         options.UseSqlServer(connectionString);
     });
+
+
+builder.Services.AddScoped<IBooksService, BooksService>();
+builder.Services.AddScoped<IBooksRepoistory,BooksRepoistory>();
+
 
 
 var app = builder.Build();
