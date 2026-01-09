@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D911306-FBD2-49CE-8545-57377FEDA20C}|TimeLineOfMe.DataAccess\\TimeLineOfMe.DataAccess.csproj|c:\\programmin projects\\vs studio\\css\\experimental\\timelineofme\\timelineofme\\timelineofme.dataaccess\\repositories\\bookrepoistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D911306-FBD2-49CE-8545-57377FEDA20C}|TimeLineOfMe.DataAccess\\TimeLineOfMe.DataAccess.csproj|solutionrelative:timelineofme.dataaccess\\repositories\\bookrepoistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8811360-10E1-76A6-E2E6-4A0153244F8E}|TimeLineOfMe.Server\\TimeLineOfMe.Server.csproj|c:\\programmin projects\\vs studio\\css\\experimental\\timelineofme\\timelineofme\\timelineofme.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8811360-10E1-76A6-E2E6-4A0153244F8E}|TimeLineOfMe.Server\\TimeLineOfMe.Server.csproj|solutionrelative:timelineofme.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFECC0EE-3687-4D1A-AE85-022B8AA2DAB3}|TimeLineOfMe.Application\\TimeLineOfMe.Application.csproj|c:\\programmin projects\\vs studio\\css\\experimental\\timelineofme\\timelineofme\\timelineofme.application\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFECC0EE-3687-4D1A-AE85-022B8AA2DAB3}|TimeLineOfMe.Application\\TimeLineOfMe.Application.csproj|solutionrelative:timelineofme.application\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8811360-10E1-76A6-E2E6-4A0153244F8E}|TimeLineOfMe.Server\\TimeLineOfMe.Server.csproj|c:\\programmin projects\\vs studio\\css\\experimental\\timelineofme\\timelineofme\\timelineofme.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8811360-10E1-76A6-E2E6-4A0153244F8E}|TimeLineOfMe.Server\\TimeLineOfMe.Server.csproj|solutionrelative:timelineofme.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8811360-10E1-76A6-E2E6-4A0153244F8E}|TimeLineOfMe.Server\\TimeLineOfMe.Server.csproj|c:\\programmin projects\\vs studio\\css\\experimental\\timelineofme\\timelineofme\\timelineofme.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8811360-10E1-76A6-E2E6-4A0153244F8E}|TimeLineOfMe.Server\\TimeLineOfMe.Server.csproj|solutionrelative:timelineofme.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D911306-FBD2-49CE-8545-57377FEDA20C}|TimeLineOfMe.DataAccess\\TimeLineOfMe.DataAccess.csproj|c:\\programmin projects\\vs studio\\css\\experimental\\timelineofme\\timelineofme\\timelineofme.dataaccess\\repositories\\booksrepoistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D911306-FBD2-49CE-8545-57377FEDA20C}|TimeLineOfMe.DataAccess\\TimeLineOfMe.DataAccess.csproj|solutionrelative:timelineofme.dataaccess\\repositories\\booksrepoistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D911306-FBD2-49CE-8545-57377FEDA20C}|TimeLineOfMe.DataAccess\\TimeLineOfMe.DataAccess.csproj|c:\\programmin projects\\vs studio\\css\\experimental\\timelineofme\\timelineofme\\timelineofme.dataaccess\\timelineofmedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D911306-FBD2-49CE-8545-57377FEDA20C}|TimeLineOfMe.DataAccess\\TimeLineOfMe.DataAccess.csproj|solutionrelative:timelineofme.dataaccess\\timelineofmedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F23488C6-352F-426D-A290-46EACE70761C}|TimeLineOfMe.Core\\TimeLineOfMe.Core.csproj|c:\\programmin projects\\vs studio\\css\\experimental\\timelineofme\\timelineofme\\timelineofme.core\\absractions\\ibookrepoistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F23488C6-352F-426D-A290-46EACE70761C}|TimeLineOfMe.Core\\TimeLineOfMe.Core.csproj|solutionrelative:timelineofme.core\\absractions\\ibookrepoistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F23488C6-352F-426D-A290-46EACE70761C}|TimeLineOfMe.Core\\TimeLineOfMe.Core.csproj|c:\\programmin projects\\vs studio\\css\\experimental\\timelineofme\\timelineofme\\timelineofme.core\\absractions\\ibooksrepoistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23488C6-352F-426D-A290-46EACE70761C}|TimeLineOfMe.Core\\TimeLineOfMe.Core.csproj|solutionrelative:timelineofme.core\\absractions\\ibooksrepoistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D911306-FBD2-49CE-8545-57377FEDA20C}|TimeLineOfMe.DataAccess\\TimeLineOfMe.DataAccess.csproj|c:\\programmin projects\\vs studio\\css\\experimental\\timelineofme\\timelineofme\\timelineofme.dataaccess\\entitites\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,50 +58,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IBookRepoistory.cs",
-              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.Core\\Absractions\\IBookRepoistory.cs",
-              "RelativeDocumentMoniker": "TimeLineOfMe.Core\\Absractions\\IBookRepoistory.cs",
-              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.Core\\Absractions\\IBookRepoistory.cs",
-              "RelativeToolTip": "TimeLineOfMe.Core\\Absractions\\IBookRepoistory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "BooksService.cs",
+              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.Application\\Services\\BooksService.cs",
+              "RelativeDocumentMoniker": "TimeLineOfMe.Application\\Services\\BooksService.cs",
+              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.Application\\Services\\BooksService.cs",
+              "RelativeToolTip": "TimeLineOfMe.Application\\Services\\BooksService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T17:16:44.743Z",
+              "WhenOpened": "2026-01-08T17:39:55.458Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "TimeLineOfMe.Server\\appsettings.json",
+              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.Server\\appsettings.json",
+              "RelativeToolTip": "TimeLineOfMe.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-08T17:35:19.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TimeLineOfMe.Server\\appsettings.Development.json",
+              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.Server\\appsettings.Development.json",
+              "RelativeToolTip": "TimeLineOfMe.Server\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-08T17:30:52.896Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BookRepoistory.cs",
-              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.DataAccess\\Repositories\\BookRepoistory.cs",
-              "RelativeDocumentMoniker": "TimeLineOfMe.DataAccess\\Repositories\\BookRepoistory.cs",
-              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.DataAccess\\Repositories\\BookRepoistory.cs",
-              "RelativeToolTip": "TimeLineOfMe.DataAccess\\Repositories\\BookRepoistory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.Server\\Program.cs",
+              "RelativeDocumentMoniker": "TimeLineOfMe.Server\\Program.cs",
+              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.Server\\Program.cs",
+              "RelativeToolTip": "TimeLineOfMe.Server\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T16:53:34.165Z",
+              "WhenOpened": "2026-01-08T17:28:29.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TimeLineOfMe.DataAccess",
+              "DocumentIndex": 6,
+              "Title": "IBooksRepoistory.cs",
+              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.Core\\Absractions\\IBooksRepoistory.cs",
+              "RelativeDocumentMoniker": "TimeLineOfMe.Core\\Absractions\\IBooksRepoistory.cs",
+              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.Core\\Absractions\\IBooksRepoistory.cs",
+              "RelativeToolTip": "TimeLineOfMe.Core\\Absractions\\IBooksRepoistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T17:16:44.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksRepoistory.cs",
+              "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.DataAccess\\Repositories\\BooksRepoistory.cs",
+              "RelativeDocumentMoniker": "TimeLineOfMe.DataAccess\\Repositories\\BooksRepoistory.cs",
+              "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.DataAccess\\Repositories\\BooksRepoistory.cs",
+              "RelativeToolTip": "TimeLineOfMe.DataAccess\\Repositories\\BooksRepoistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T16:53:34.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TimeLineOfMe.DataAccess.csproj",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.DataAccess\\TimeLineOfMe.DataAccess.csproj",
               "RelativeDocumentMoniker": "TimeLineOfMe.DataAccess\\TimeLineOfMe.DataAccess.csproj",
               "ToolTip": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.DataAccess\\TimeLineOfMe.DataAccess.csproj",
               "RelativeToolTip": "TimeLineOfMe.DataAccess\\TimeLineOfMe.DataAccess.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-08T16:44:18.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T16:44:18.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "TimeLineOfMeDbContext.cs",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.DataAccess\\TimeLineOfMeDbContext.cs",
               "RelativeDocumentMoniker": "TimeLineOfMe.DataAccess\\TimeLineOfMeDbContext.cs",
@@ -93,12 +156,11 @@
               "RelativeToolTip": "TimeLineOfMe.DataAccess\\TimeLineOfMeDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T16:41:51.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T16:41:51.946Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.Core\\Models\\Book.cs",
               "RelativeDocumentMoniker": "TimeLineOfMe.Core\\Models\\Book.cs",
@@ -106,12 +168,11 @@
               "RelativeToolTip": "TimeLineOfMe.Core\\Models\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T16:45:15.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T16:45:15.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "BookEntity.cs",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.DataAccess\\Entitites\\BookEntity.cs",
               "RelativeDocumentMoniker": "TimeLineOfMe.DataAccess\\Entitites\\BookEntity.cs",
@@ -119,12 +180,11 @@
               "RelativeToolTip": "TimeLineOfMe.DataAccess\\Entitites\\BookEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T16:45:01.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T16:45:01.768Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "BookConfiguration.cs",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.DataAccess\\Configurations\\BookConfiguration.cs",
               "RelativeDocumentMoniker": "TimeLineOfMe.DataAccess\\Configurations\\BookConfiguration.cs",
@@ -132,12 +192,11 @@
               "RelativeToolTip": "TimeLineOfMe.DataAccess\\Configurations\\BookConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T16:46:36.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T16:46:36.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "commands.txt",
               "DocumentMoniker": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\commands.txt",
               "RelativeDocumentMoniker": "commands.txt",
@@ -145,8 +204,7 @@
               "RelativeToolTip": "commands.txt",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-01-08T15:30:42.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T15:30:42.775Z"
             }
           ]
         }
