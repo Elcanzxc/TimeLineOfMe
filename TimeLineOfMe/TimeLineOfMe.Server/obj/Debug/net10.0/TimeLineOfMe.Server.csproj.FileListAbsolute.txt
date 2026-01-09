@@ -254,3 +254,4 @@ C:\Programmin projects\Vs Studio\Css\Experimental\TimeLineOfMe\TimeLineOfMe\Time
 C:\Programmin projects\Vs Studio\Css\Experimental\TimeLineOfMe\TimeLineOfMe\TimeLineOfMe.Server\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Programmin projects\Vs Studio\Css\Experimental\TimeLineOfMe\TimeLineOfMe\TimeLineOfMe.Server\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Programmin projects\Vs Studio\Css\Experimental\TimeLineOfMe\TimeLineOfMe\TimeLineOfMe.Server\bin\Debug\net10.0\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+C:\Programmin projects\Vs Studio\Css\Experimental\TimeLineOfMe\TimeLineOfMe\TimeLineOfMe.Server\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

@@ -34,7 +34,7 @@ public class Book
 
         StringBuilder errorBuilder = new();
 
-        string format = "yyyy-MM-dd HH:mm:ss";
+        string format = "yyyy-MM-dd";
 
         bool success = DateTime.TryParseExact(
                 publishedDateStr,
@@ -57,7 +57,7 @@ public class Book
             errorBuilder.AppendLine($"Published date must be in the format {format}.");
 
         else if (publishedDate > DateTime.UtcNow)
-            errorBuilder.AppendLine("Published date cannot be in the future.");
+            errorBuilder.AppendLine("Published date cannot be in the future1.");
 
 
 
@@ -71,5 +71,12 @@ public class Book
 
 
     public static Book Create(Guid id, string title, string author, string? description, DateTime publishedDate) => new Book(id, title, author, description, publishedDate);
+
+
+
+
+
+
+
 
 }
