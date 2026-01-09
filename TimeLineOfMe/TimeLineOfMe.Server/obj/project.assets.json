@@ -525,6 +525,19 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
+      "TimeLineOfMe.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "TimeLineOfMe.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TimeLineOfMe.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TimeLineOfMe.Application.dll": {}
+        }
+      },
       "TimeLineOfMe.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
@@ -1228,6 +1241,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "TimeLineOfMe.Application/1.0.0": {
+      "type": "project",
+      "path": "../TimeLineOfMe.Application/TimeLineOfMe.Application.csproj",
+      "msbuildProject": "../TimeLineOfMe.Application/TimeLineOfMe.Application.csproj"
+    },
     "TimeLineOfMe.Core/1.0.0": {
       "type": "project",
       "path": "../TimeLineOfMe.Core/TimeLineOfMe.Core.csproj",
@@ -1243,6 +1261,7 @@
     "net10.0": [
       "Microsoft.AspNetCore.OpenApi >= 10.0.1",
       "Scalar.AspNetCore >= 2.12.3",
+      "TimeLineOfMe.Application >= 1.0.0",
       "TimeLineOfMe.DataAccess >= 1.0.0"
     ]
   },
@@ -1279,6 +1298,9 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
+            "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.Application\\TimeLineOfMe.Application.csproj": {
+              "projectPath": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.Application\\TimeLineOfMe.Application.csproj"
+            },
             "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.DataAccess\\TimeLineOfMe.DataAccess.csproj": {
               "projectPath": "C:\\Programmin projects\\Vs Studio\\Css\\Experimental\\TimeLineOfMe\\TimeLineOfMe\\TimeLineOfMe.DataAccess\\TimeLineOfMe.DataAccess.csproj"
             }
