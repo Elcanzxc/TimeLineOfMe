@@ -22,13 +22,21 @@ builder.Services.AddDbContext<TimeLineOfMeDbContext>(
 builder.Services.AddScoped<IBooksService, BooksService>();
 builder.Services.AddScoped<IBooksRepoistory,BooksRepoistory>();
 
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(policy =>
+        policy.AllowAnyOrigin()
+              .AllowAnyMethod()
+              .AllowAnyHeader());
+});
+
 
 
 var app = builder.Build();
 
 
 
-
+app.UseCors();
 
 if (app.Environment.IsDevelopment())
 {
